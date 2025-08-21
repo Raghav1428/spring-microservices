@@ -70,7 +70,7 @@ Since no microservices are implemented yet, this base project is not executable.
 
 ✅ Base Maven + Spring Boot setup
 
-⏳ Add first microservice
+✅ Add first microservice **customer-service**
 
 ⏳ Implement service discovery
 
