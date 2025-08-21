@@ -8,12 +8,12 @@ A learning project to explore and build microservices using **Spring Boot**. Thi
 ---
 
 ## 📑 Table of Contents
-- [Introduction](#introduction)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Build & Run](#build--run)
-- [Planned Features](#planned-features)
+- [Introduction](#-introduction)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure-initial)
+- [Getting Started](#-getting-started)
+- [Build & Run](#-build--run)
+- [Planned Features](#-planned-features)
 
 ## 🚀 Introduction
 This project is created as part of my journey to learn **Microservices Architecture with Spring Boot**.  
