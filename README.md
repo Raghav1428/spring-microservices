@@ -1,6 +1,6 @@
 # Microservices with Spring Boot
 
-![Java](https://img.shields.io/badge/Java-22-blue.svg)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen.svg)  ![Maven](https://img.shields.io/badge/Maven-3.9.11-orange.svg) ![Latest Commit](https://img.shields.io/github/last-commit/Raghav1428/spring-microservices?logo=github)
+![Java](https://img.shields.io/badge/Java-17-blue.svg)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen.svg)  ![Maven](https://img.shields.io/badge/Maven-3.9.11-orange.svg) ![Latest Commit](https://img.shields.io/github/last-commit/Raghav1428/spring-microservices?logo=github)
 
 
 A learning project to explore and build microservices using **Spring Boot**. This repository will gradually evolve as different microservices are added and integrated.
@@ -47,7 +47,7 @@ As development progresses, individual microservices will be added as separate mo
 ## ⚙️ Getting Started
 
 ### Prerequisites
-- Install **Java 17+**
+- Install **Java 17**
 - Install **Maven 3.9+**
 - Clone this repository
 
