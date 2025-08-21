@@ -3,17 +3,21 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>in.raghavseth.learning-microservices</groupId>
+  <groupId>in.raghavseth</groupId>
   <artifactId>microservices</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>microservices</name>
-  <url>https://www.lerning-microservices.raghavseth.com</url>
+  <url>https://www.raghavseth.com</url>
+
+  <modules>
+    <module>customer</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.release>22</maven.compiler.release>
+    <maven.compiler.release>17</maven.compiler.release>
     <spring.boot.maven.plugin.version>3.5.3</spring.boot.maven.plugin.version>
     <spring.boot.dependencies.version>3.5.3</spring.boot.dependencies.version>
   </properties>

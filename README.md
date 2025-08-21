@@ -24,7 +24,7 @@ Initially, this repo contains only the base project setup. Over time, I will be 
 - Centralized configuration
 - Monitoring and logging
 
-Stay tuned as the repo grows into a full-fledged microservices ecosystem.
+Stay tuned as the repo grows into a full-fledged microservice ecosystem.
 
 ## 🛠 Tech Stack
 - **Java 17**
