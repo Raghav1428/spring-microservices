@@ -10,7 +10,7 @@ A learning project to explore and build microservices using **Spring Boot**. Thi
 ## 📑 Table of Contents
 - [Introduction](#-introduction)
 - [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure-initial)
+- [Project Structure](#-project-structure-ongoing)
 - [Getting Started](#-getting-started)
 - [Build & Run](#-build--run)
 - [Planned Features](#-planned-features)
@@ -32,7 +32,7 @@ Stay tuned as the repo grows into a full-fledged microservice ecosystem.
 - **Maven** for build and dependency management
 - **Lombok** for reducing boilerplate code
 
-## 📂 Project Structure (initial)
+## 📂 Project Structure (ongoing)
 ```
 microservices/
 ├── .mvn/
