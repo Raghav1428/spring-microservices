@@ -72,6 +72,8 @@ Since no microservices are implemented yet, this base project is not executable.
 
 ✅ Add first microservice **customer-service**
 
+✅ Add second microservice **fraud-service**
+
 ⏳ Implement service discovery
 
 ⏳ Add API Gateway
