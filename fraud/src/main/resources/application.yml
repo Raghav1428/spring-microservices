@@ -3,10 +3,10 @@ server:
 
 spring:
   application:
-    name: customer
+    name: fraud
 
   datasource:
-    url: jdbc:postgresql://localhost:5433/customer
+    url: jdbc:postgresql://localhost:5434/fraud
     username: raghav
     password: raghav
 
