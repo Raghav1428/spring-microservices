@@ -38,6 +38,15 @@ microservices/
 ├── .mvn/
 │ ├── jvm.config
 │ └── maven.config
+├── customer/
+│ ├── src/
+│ ├── target/
+│ └── pom.xml
+├── fraud/
+│ ├── src/
+│ ├── target/
+│ └── pom.xml
+├── docker-compose.yml
 ├── pom.xml
 ├── README.md
 ```
