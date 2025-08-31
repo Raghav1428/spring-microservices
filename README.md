@@ -83,11 +83,11 @@ Since no microservices are implemented yet, this base project is not executable.
 
 ✅ Add second microservice **fraud-service**
 
-⏳ Implement service discovery
+✅ Implement service discovery
 
-⏳ Add API Gateway
+✅ Add API Gateway
 
-⏳ Centralized configuration
+✅ Centralized configuration
 
-⏳ Distributed tracing and monitoring
+✅ Distributed tracing and monitoring
 
